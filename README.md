@@ -1,6 +1,4 @@
-Here is a draft article on automating a Unity 3D game using Appium and AltUnityRunner:
-
-Title: Automating Unity 3D Games with Appium and AltUnityRunner
+                                       Automating Unity 3D Games with Appium and AltUnityRunner
 
 Introduction: This article provides steps to set up an environment for automating tests of a Unity 3D game using Appium and AltUnityRunner. Appium allows controlling and interacting with a game installed on an Android device, while AltUnityRunner enables accessing game objects and calling methods directly from Unity code.
 
